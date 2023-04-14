@@ -1,0 +1,13 @@
+.items {
+    display: flex;
+    flex-direction: column;
+}
+
+.inventory {
+    background-color: green;
+    border: 1px solid black;
+    padding: 0.7rem;
+    margin: 0.5rem 0;
+    color: white;
+    font-weight: bold;
+}
